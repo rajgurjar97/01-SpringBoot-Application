@@ -12,6 +12,7 @@ import java.lang.reflect.InvocationTargetException;
 import com.sp.bean.CurrencyConvertor;
 
 public class SDTest {
+	int b=20;
 
 	public static void main(String[] args) throws CloneNotSupportedException, FileNotFoundException, IOException, ClassNotFoundException, NoSuchMethodException, SecurityException, InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException {
 	CurrencyConvertor cc=CurrencyConvertor.getObject();
