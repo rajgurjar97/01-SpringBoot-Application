@@ -13,6 +13,7 @@ import com.sp.bean.CurrencyConvertor;
 
 public class SDTest {
        int a=10;
+	   int c=90;
 	public static void main(String[] args) throws CloneNotSupportedException, FileNotFoundException, IOException, ClassNotFoundException, NoSuchMethodException, SecurityException, InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException {
 	CurrencyConvertor cc=CurrencyConvertor.getObject();
 		CurrencyConvertor cc1=CurrencyConvertor.getObject();
